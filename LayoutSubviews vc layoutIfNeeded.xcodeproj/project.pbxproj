@@ -13,6 +13,7 @@
 		886DD845256795670025559B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 886DD843256795670025559B /* Main.storyboard */; };
 		886DD8472567956C0025559B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 886DD8462567956C0025559B /* Assets.xcassets */; };
 		886DD84A2567956C0025559B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 886DD8482567956C0025559B /* LaunchScreen.storyboard */; };
+		886DD853256795DF0025559B /* RedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 886DD852256795DF0025559B /* RedView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		886DD8462567956C0025559B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		886DD8492567956C0025559B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		886DD84B2567956C0025559B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		886DD852256795DF0025559B /* RedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RedView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				886DD83F256795670025559B /* SceneDelegate.swift */,
 				886DD841256795670025559B /* ViewController.swift */,
 				886DD843256795670025559B /* Main.storyboard */,
+				886DD852256795DF0025559B /* RedView.swift */,
 				886DD8462567956C0025559B /* Assets.xcassets */,
 				886DD8482567956C0025559B /* LaunchScreen.storyboard */,
 				886DD84B2567956C0025559B /* Info.plist */,
@@ -139,6 +142,7 @@
 			files = (
 				886DD842256795670025559B /* ViewController.swift in Sources */,
 				886DD83E256795670025559B /* AppDelegate.swift in Sources */,
+				886DD853256795DF0025559B /* RedView.swift in Sources */,
 				886DD840256795670025559B /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
